@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstageapp
+  annotations:
+    github.com/project-slug: Athira-work/backstageapp
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Athira-work
